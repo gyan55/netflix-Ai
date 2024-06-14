@@ -1,9 +1,9 @@
 
-import './App.css';
+import Hero from "../src/components/Hero"
 
 function App() {
   return (
-   <div className="text-3xl">HI everyoneeeeee</div>
+   <Hero/>
   );
 }
 

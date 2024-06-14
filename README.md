@@ -2,6 +2,9 @@
 
 - Create vite react app
 - Installed and Configured tailwind
+-header
+-singIn form
+-login form
 
 # Features
 - Login/Sign Up
