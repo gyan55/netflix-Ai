@@ -1,9 +1,11 @@
 
+import { Provider } from "react-redux";
 import Hero from "../src/components/Hero"
+import appStore from "./store/appStore";
 
 function App() {
   return (
-   <Hero/>
+  <Provider store = {appStore}> <Hero/></Provider>
   );
 }
 

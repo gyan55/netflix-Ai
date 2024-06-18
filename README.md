@@ -5,6 +5,8 @@
 -header
 -singIn form
 -login form
+-form validation
+-Firebase setup 
 
 # Features
 - Login/Sign Up
