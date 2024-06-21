@@ -7,6 +7,8 @@
 -login form
 -form validation
 -Firebase setup 
+-unsubscribed the onAuthStateChange callback
+-fix: if user not logged in redirect to login page
 
 # Features
 - Login/Sign Up
