@@ -19,7 +19,7 @@ const useNowMovies = () => {
     }});
 
     dispatch(movieSliceactions.addNowPlayingMovies(req.data.results))
-    console.log("data",req.data.results);
+    
   }
     useEffect(() => {
         GetMovies();

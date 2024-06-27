@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react'
 import Header from '../Header';
 import useNowMovies from '../../hooks/useNowMovies';
-import MainContainer from './mainContainer';
-import RecommendConatiner from './recommendConatiner';
+import MainContainer from '../BrowseContainer/MainView/mainContainer';
+import RecommendConatiner from '../BrowseContainer/MovieLists/recommendConatiner';
 
 const Browse = () => {
   
